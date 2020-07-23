@@ -57,7 +57,7 @@ DEFAULTS = {
     "mongosSetParameters": None,
     "nojournal": False,
     "numClientsPerFixture": 1,
-    "projectName": "mongodb-mongo-master",
+    "projectName": "mongodb-mongo-main",
     "repeat": 1,
     "reportFile": None,
     "seed": long(time.time() * 256),  # Taken from random.py code in Python 2.7.
